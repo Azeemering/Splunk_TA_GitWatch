@@ -1,0 +1,26 @@
+[props/source%3A%3A...ta-gitwatch%2A.log%2A]
+owner = admin
+version = 8.0.5
+modtime = 1600716437.421493500
+
+[props/source%3A%3A...ta_gitwatch%2A.log%2A]
+owner = admin
+version = 8.0.5
+modtime = 1600716437.822421000
+
+[inputs/github_repo%3A%2F%2FAzeemering]
+owner = admin
+version = 8.0.5
+modtime = 1600799302.891019200
+
+[props/github%3Arepo]
+owner = admin
+version = 8.0.5
+modtime = 1600717881.487005200
+
+[savedsearches/Github%20public%20repository%20detected]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.5
+modtime = 1600802227.210318600

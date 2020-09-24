@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "info": {
+    "title": "GitWatch",
+    "id": {
+      "group": null,
+      "name": "TA-gitwatch",
+      "version": "1.0.1"
+    },
+    "author": [
+      {
+        "name": "Andre Zeemering - UMBRiO B.V.",
+        "email": null,
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "GitWatch is a ready-made solution to monitor the list of public repositories of your user or organization's Github page.In large organisations using the public cloud to store code it's unfortunately not uncommon to accidentally make something public that should be private.",
+    "classification": {
+      "intendedAudience": null,
+      "categories": [],
+      "developmentStatus": null
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": null,
+      "uri": null
+    }
+  },
+  "dependencies": {
+  },
+  "tasks": [],
+  "inputGroups": {
+  },
+  "incompatibleApps": {
+  },
+  "platformRequirements": {
+    "splunk": {
+      "Enterprise": "*"
+    }
+  }
+}
