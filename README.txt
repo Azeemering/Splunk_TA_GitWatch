@@ -1,4 +1,4 @@
-# This add-on is powered by splunk Add-on builder
+# This app is under development. 
 
 [launcher]
 Author = Andre Zeemering - UMBRiO B.V.
